@@ -12,7 +12,7 @@ sandwich_price = float (4.0)
 cake_price = float (3.0)
 customer_name = str ("Ayesha")
 
-print("Customer Name:", customer_name, "Coffee: $", coffee_price, "Sandwich: $", sandwich_price, "Cake: $", cake_price)
+print("Customer Name:", customer_name , "Coffee:$", coffee_price , "Sandwich:$", sandwich_price ,"Cake:$", cake_price)
 print("Total Bill: $", coffee_price + sandwich_price + cake_price)
 
 #Output:
